@@ -33,7 +33,7 @@ export const MenuSection = ({ onAddToCart }: MenuSectionProps) => {
         name: "Diavola",
         description: "Sauce tomate, mozzarella, salami piquant, piments, origan",
         price: 16.50,
-        image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+        image: "https://images.unsplash.com/photo-1579751626657-72bc17010498?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         category: "pizzas"
       }
     ],
@@ -43,7 +43,7 @@ export const MenuSection = ({ onAddToCart }: MenuSectionProps) => {
         name: "Spaghetti Carbonara",
         description: "Spaghetti, œufs, guanciale, pecorino romano, poivre noir",
         price: 13.90,
-        image: "https://images.unsplash.com/photo-1621996346565-e3dbc353d2e5?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+        image: "https://plus.unsplash.com/premium_photo-1664472619078-9db415ebef44?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGF0ZXN8ZW58MHx8MHx8fDA%3D",
         category: "pates"
       },
       {
@@ -51,7 +51,7 @@ export const MenuSection = ({ onAddToCart }: MenuSectionProps) => {
         name: "Penne all'Arrabbiata",
         description: "Penne, sauce tomate épicée, ail, persil, piment",
         price: 12.50,
-        image: "https://images.unsplash.com/photo-1572441713132-51c75654db73?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+        image: "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cGF0ZXN8ZW58MHx8MHx8fDA%3D",
         category: "pates"
       }
     ],
@@ -82,7 +82,7 @@ export const MenuSection = ({ onAddToCart }: MenuSectionProps) => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-black mb-6">
-            Nos recettes signatures
+            Notre Menu
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
             Découvrez notre sélection de plats authentiques, préparés avec passion 

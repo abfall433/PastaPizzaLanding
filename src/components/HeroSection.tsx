@@ -52,12 +52,7 @@ export const HeroSection = () => {
               </div>
               
               {/* Badge "Fait maison" plus proéminent */}
-              <div className="absolute top-8 left-8">
-                <Badge className="shadow-2xl animate-pulse-glow bg-gradient-to-r from-yellow-400 to-yellow-500">
-                  <span>🔥</span>
-                  <span className="font-bold">Fait maison</span>
-                </Badge>
-              </div>
+              
 
               {/* Badge urgence */}
               <div className="absolute bottom-8 left-8">

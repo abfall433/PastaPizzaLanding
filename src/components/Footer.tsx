@@ -37,7 +37,6 @@ export const Footer = () => {
             <h3 className="text-lg font-semibold mb-6">Liens rapides</h3>
             <ul className="space-y-3">
               <li><a href="#accueil" className="text-gray-300 hover:text-yellow-400 transition-colors">Accueil</a></li>
-              <li><a href="#histoire" className="text-gray-300 hover:text-yellow-400 transition-colors">Notre Histoire</a></li>
               <li><a href="#menu" className="text-gray-300 hover:text-yellow-400 transition-colors">Menu</a></li>
               <li><a href="#galerie" className="text-gray-300 hover:text-yellow-400 transition-colors">Galerie</a></li>
               <li><a href="#contact" className="text-gray-300 hover:text-yellow-400 transition-colors">Contact</a></li>
