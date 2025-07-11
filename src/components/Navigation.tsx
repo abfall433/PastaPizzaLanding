@@ -28,7 +28,7 @@ export const Navigation = ({ cartItemsCount, onCartClick }: NavigationProps) => 
               <span className="text-2xl font-bold text-black">P</span>
               <span className="text-2xl font-bold text-yellow-400 absolute -ml-1">P</span>
             </div>
-            <span className="text-xl font-bold text-black">Pasta Pizza</span>
+            <span className="text-xl font-bold text-black">asta Pizza</span>
           </div>
 
           {/* Desktop Navigation */}
